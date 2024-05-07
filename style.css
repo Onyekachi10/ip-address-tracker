@@ -124,6 +124,8 @@ div.table {
     flex-direction: column;
     width: 60%;
     height: 400px;
+    position: relative;
+    bottom: 3pc;
   }
 
   span {
